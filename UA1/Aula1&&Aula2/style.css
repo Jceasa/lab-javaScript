@@ -1,0 +1,63 @@
+body {
+            margin: 0;
+        }
+
+        h2 {
+            color: rgb(0, 162, 255);
+            background-color: rgb(10, 10, 10);
+            text-align: center;
+        }
+
+        h1 {
+            color: rgb(0, 162, 255);
+            background-color: rgb(10, 10, 10);
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        p {
+            text-align: center;
+            color: blue;
+        }
+
+        header {
+            display: flex;
+            justify-content: flex-start;
+            background-color: rgb(2, 0, 0);
+
+        }
+
+        main {
+            margin: auto 5%;
+            background-color: rgb(253, 253, 253);
+        }
+
+        .destaque {
+            background-color: brown;
+            color: aliceblue;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        #img-logo {
+            width: 800px;
+            border-radius: 20px;
+            justify-content: center;
+            border: 2px solid;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            text-align: center;
+        }
+
+        nav li {
+            display: inline;
+            background-color: brown;
+            margin-left: 140px;
+            color: aliceblue;
+        }
+
+        li {
+            text-align: center;
+        }
